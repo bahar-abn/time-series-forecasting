@@ -1,0 +1,18 @@
+2026-02-14 11:36:39 - stl_decomposer - INFO - ✅ STLDecomposer initialized
+2026-02-14 11:36:39 - stl_decomposer - INFO - 🚀 شروع تجزیه سری زمانی با STL...
+2026-02-14 11:36:39 - stl_decomposer - INFO - ✅ تجزیه STL با موفقیت انجام شد
+2026-02-14 11:36:39 - stl_decomposer - INFO -    - دوره فصلی: 7
+2026-02-14 11:36:39 - stl_decomposer - INFO -    - روش مقاوم: True
+2026-02-14 11:36:39 - stl_decomposer - INFO -    - پنجره فصلی: 13
+2026-02-14 11:36:39 - stl_decomposer - INFO -    - پنجره روند: 21
+2026-02-14 11:36:39 - stl_decomposer - INFO - 📊 قدرت فصلی (STL): 0.913
+2026-02-14 11:36:39 - stl_decomposer - INFO - 📊 قدرت روند (STL): 0.932
+2026-02-14 11:38:01 - stl_decomposer - INFO - ✅ STLDecomposer initialized
+2026-02-14 11:38:01 - stl_decomposer - INFO - 🚀 شروع تجزیه سری زمانی با STL...
+2026-02-14 11:38:01 - stl_decomposer - INFO - ✅ تجزیه STL با موفقیت انجام شد
+2026-02-14 11:38:01 - stl_decomposer - INFO -    - دوره فصلی: 7
+2026-02-14 11:38:01 - stl_decomposer - INFO -    - روش مقاوم: True
+2026-02-14 11:38:01 - stl_decomposer - INFO -    - پنجره فصلی: 13
+2026-02-14 11:38:01 - stl_decomposer - INFO -    - پنجره روند: 21
+2026-02-14 11:38:01 - stl_decomposer - INFO - 📊 قدرت فصلی (STL): 1.000
+2026-02-14 11:38:01 - stl_decomposer - INFO - 📊 قدرت روند (STL): 0.699

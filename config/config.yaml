@@ -1,0 +1,158 @@
+# ============================================
+# تنظیمات پروژه پیش‌بینی سری‌های زمانی
+# ============================================
+
+# تنظیمات داده
+data:
+  synthetic:
+    sales:
+      n_points: 1000
+      start_date: "2020-01-01"
+      freq: "D"  # Daily
+      trend: 0.1
+      seasonality:
+        yearly: true
+        weekly: true
+        amplitude: 100
+      noise: 20
+      random_state: 42
+    
+    energy:
+      n_points: 2000
+      start_date: "2019-01-01"
+      freq: "H"  # Hourly
+      trend: 0.05
+      seasonality:
+        daily: true
+        weekly: true
+        yearly: true
+        amplitude: 50
+      noise: 10
+      random_state: 42
+  
+  test_size: 0.2
+  validation_size: 0.1
+
+# تنظیمات پیش‌پردازش
+preprocessing:
+  missing_values:
+    method: interpolate  # interpolate, ffill, bfill, drop
+    order: 3
+  
+  outlier_detection:
+    method: iqr
+    iqr_multiplier: 3
+    action: winsorize  # winsorize, remove, cap
+  
+  scaling:
+    enabled: false  # معمولاً برای سری زمانی نیازی نیست
+    method: standard
+
+# تنظیمات Feature Engineering
+feature_engineering:
+  datetime_features:
+    - hour
+    - dayofweek
+    - dayofmonth
+    - month
+    - quarter
+    - year
+    - weekofyear
+    - is_weekend
+    - is_holiday
+  
+  lag_features:
+    lags: [1, 2, 3, 7, 14, 28, 30]
+  
+  rolling_features:
+    windows: [7, 14, 30]
+    functions: [mean, std, min, max]
+  
+  fourier_features:
+    enabled: true
+    k: 5  # تعداد هارمونیک‌ها
+    period: [7, 30, 365]  # دوره‌های فصلی
+
+# تنظیمات تجزیه سری زمانی
+decomposition:
+  seasonal_decompose:
+    model: additive  # additive, multiplicative
+    period: 7  # دوره فصلی
+  
+  stl:
+    period: 7
+    robust: true
+    seasonal: 13
+    trend: 21
+
+# تنظیمات مدل‌ها
+models:
+  baseline:
+    naive:
+      enabled: true
+      seasonal: false
+    
+    seasonal_naive:
+      enabled: true
+      seasonal_period: 7
+    
+    moving_average:
+      enabled: true
+      window: 7
+  
+  arima:
+    enabled: true
+    auto_arima: true
+    max_p: 5
+    max_d: 2
+    max_q: 5
+    seasonal: false
+    information_criterion: aic
+  
+  sarima:
+    enabled: true
+    auto_arima: true
+    max_p: 3
+    max_d: 1
+    max_q: 3
+    max_P: 2
+    max_D: 1
+    max_Q: 2
+    m: 7  # دوره فصلی
+    information_criterion: aic
+  
+  prophet:
+    enabled: true
+    yearly_seasonality: auto
+    weekly_seasonality: auto
+    daily_seasonality: auto
+    seasonality_mode: additive
+    changepoint_prior_scale: 0.05
+    seasonality_prior_scale: 10
+    holidays_prior_scale: 10
+    uncertainty_samples: 1000
+
+# تنظیمات ارزیابی
+evaluation:
+  metrics:
+    - rmse
+    - mae
+    - mape
+    - mse
+    - r2
+  
+  cross_validation:
+    enabled: true
+    method: expanding_window  # expanding_window, sliding_window
+    n_splits: 5
+    initial: 500
+    step: 100
+
+# تنظیمات پیش‌بینی
+forecasting:
+  forecast_horizon: 30  # افق پیش‌بینی (روز)
+  confidence_interval: 0.95
+  output_formats:
+    - csv
+    - json
+    - plot

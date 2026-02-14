@@ -1,0 +1,162 @@
+2026-02-14 11:38:06 - time_series_preprocessor - INFO - ✅ TimeSeriesPreprocessor initialized
+2026-02-14 11:38:06 - time_series_preprocessor - INFO - 🚀 شروع پایپلاین پیش‌پردازش...
+2026-02-14 11:38:06 - time_series_preprocessor - INFO - ✅ داده‌ها بر اساس تاریخ مرتب شدند
+2026-02-14 11:38:06 - time_series_preprocessor - INFO - 🔍 بررسی مقادیر گمشده...
+2026-02-14 11:38:06 - time_series_preprocessor - INFO -    - تعداد مقادیر گمشده: 0 (0.00%)
+2026-02-14 11:38:06 - time_series_preprocessor - INFO -    ✅ ویژگی hour اضافه شد
+2026-02-14 11:38:06 - time_series_preprocessor - INFO -    ✅ ویژگی dayofweek اضافه شد
+2026-02-14 11:38:06 - time_series_preprocessor - INFO -    ✅ ویژگی dayofmonth اضافه شد
+2026-02-14 11:38:06 - time_series_preprocessor - INFO -    ✅ ویژگی month اضافه شد
+2026-02-14 11:38:06 - time_series_preprocessor - INFO -    ✅ ویژگی quarter اضافه شد
+2026-02-14 11:38:06 - time_series_preprocessor - INFO -    ✅ ویژگی year اضافه شد
+2026-02-14 11:38:06 - time_series_preprocessor - INFO -    ✅ ویژگی weekofyear اضافه شد
+2026-02-14 11:38:06 - time_series_preprocessor - INFO -    ✅ ویژگی is_weekend اضافه شد
+2026-02-14 11:38:06 - time_series_preprocessor - INFO -    ✅ 5 هارمونیک فوریه برای دوره 7 اضافه شد
+2026-02-14 11:38:06 - time_series_preprocessor - INFO -    ✅ 5 هارمونیک فوریه برای دوره 30 اضافه شد
+2026-02-14 11:38:06 - time_series_preprocessor - INFO -    ✅ 5 هارمونیک فوریه برای دوره 365 اضافه شد
+2026-02-14 11:38:06 - time_series_preprocessor - INFO -    ✅ ویژگی lag_1 اضافه شد
+2026-02-14 11:38:06 - time_series_preprocessor - INFO -    ✅ ویژگی lag_2 اضافه شد
+2026-02-14 11:38:06 - time_series_preprocessor - INFO -    ✅ ویژگی lag_3 اضافه شد
+2026-02-14 11:38:06 - time_series_preprocessor - INFO -    ✅ ویژگی lag_7 اضافه شد
+2026-02-14 11:38:06 - time_series_preprocessor - INFO -    ✅ ویژگی lag_14 اضافه شد
+2026-02-14 11:38:06 - time_series_preprocessor - INFO -    ✅ ویژگی lag_28 اضافه شد
+2026-02-14 11:38:06 - time_series_preprocessor - INFO -    ✅ ویژگی lag_30 اضافه شد
+2026-02-14 11:38:07 - time_series_preprocessor - INFO -    ✅ ویژگی rolling_7_mean اضافه شد
+2026-02-14 11:38:07 - time_series_preprocessor - INFO -    ✅ ویژگی rolling_7_std اضافه شد
+2026-02-14 11:38:07 - time_series_preprocessor - INFO -    ✅ ویژگی rolling_7_min اضافه شد
+2026-02-14 11:38:07 - time_series_preprocessor - INFO -    ✅ ویژگی rolling_7_max اضافه شد
+2026-02-14 11:38:07 - time_series_preprocessor - INFO -    ✅ ویژگی rolling_14_mean اضافه شد
+2026-02-14 11:38:07 - time_series_preprocessor - INFO -    ✅ ویژگی rolling_14_std اضافه شد
+2026-02-14 11:38:07 - time_series_preprocessor - INFO -    ✅ ویژگی rolling_14_min اضافه شد
+2026-02-14 11:38:07 - time_series_preprocessor - INFO -    ✅ ویژگی rolling_14_max اضافه شد
+2026-02-14 11:38:07 - time_series_preprocessor - INFO -    ✅ ویژگی rolling_30_mean اضافه شد
+2026-02-14 11:38:07 - time_series_preprocessor - INFO -    ✅ ویژگی rolling_30_std اضافه شد
+2026-02-14 11:38:07 - time_series_preprocessor - INFO -    ✅ ویژگی rolling_30_min اضافه شد
+2026-02-14 11:38:07 - time_series_preprocessor - INFO -    ✅ ویژگی rolling_30_max اضافه شد
+2026-02-14 11:38:07 - time_series_preprocessor - INFO - ✅ 30 رکورد با NaN حذف شد
+2026-02-14 11:38:07 - time_series_preprocessor - INFO - ✅ پیش‌پردازش کامل شد:
+2026-02-14 11:38:07 - time_series_preprocessor - INFO -    - تعداد نمونه: 970
+2026-02-14 11:38:07 - time_series_preprocessor - INFO -    - تعداد ویژگی‌ها: 69
+2026-02-14 11:38:07 - time_series_preprocessor - INFO -    - بازه زمانی: 1970-01-01 00:00:00.000000003 تا 1970-01-01 00:00:00.000000099
+2026-02-14 11:43:53 - time_series_preprocessor - INFO - ✅ TimeSeriesPreprocessor initialized
+2026-02-14 11:43:53 - time_series_preprocessor - INFO - 🚀 شروع پایپلاین پیش‌پردازش...
+2026-02-14 11:43:53 - time_series_preprocessor - INFO - ✅ داده‌ها بر اساس تاریخ مرتب شدند
+2026-02-14 11:43:53 - time_series_preprocessor - INFO - 🔍 بررسی مقادیر گمشده...
+2026-02-14 11:43:53 - time_series_preprocessor - INFO -    - تعداد مقادیر گمشده: 0 (0.00%)
+2026-02-14 11:43:53 - time_series_preprocessor - INFO -    ✅ ویژگی hour اضافه شد
+2026-02-14 11:43:53 - time_series_preprocessor - INFO -    ✅ ویژگی dayofweek اضافه شد
+2026-02-14 11:43:53 - time_series_preprocessor - INFO -    ✅ ویژگی dayofmonth اضافه شد
+2026-02-14 11:43:53 - time_series_preprocessor - INFO -    ✅ ویژگی month اضافه شد
+2026-02-14 11:43:53 - time_series_preprocessor - INFO -    ✅ ویژگی quarter اضافه شد
+2026-02-14 11:43:53 - time_series_preprocessor - INFO -    ✅ ویژگی year اضافه شد
+2026-02-14 11:43:53 - time_series_preprocessor - INFO -    ✅ ویژگی weekofyear اضافه شد
+2026-02-14 11:43:53 - time_series_preprocessor - INFO -    ✅ ویژگی is_weekend اضافه شد
+2026-02-14 11:43:53 - time_series_preprocessor - INFO -    ✅ 5 هارمونیک فوریه برای دوره 7 اضافه شد
+2026-02-14 11:43:53 - time_series_preprocessor - INFO -    ✅ 5 هارمونیک فوریه برای دوره 30 اضافه شد
+2026-02-14 11:43:53 - time_series_preprocessor - INFO -    ✅ 5 هارمونیک فوریه برای دوره 365 اضافه شد
+2026-02-14 11:43:53 - time_series_preprocessor - INFO -    ✅ ویژگی lag_1 اضافه شد
+2026-02-14 11:43:53 - time_series_preprocessor - INFO -    ✅ ویژگی lag_2 اضافه شد
+2026-02-14 11:43:53 - time_series_preprocessor - INFO -    ✅ ویژگی lag_3 اضافه شد
+2026-02-14 11:43:53 - time_series_preprocessor - INFO -    ✅ ویژگی lag_7 اضافه شد
+2026-02-14 11:43:53 - time_series_preprocessor - INFO -    ✅ ویژگی lag_14 اضافه شد
+2026-02-14 11:43:53 - time_series_preprocessor - INFO -    ✅ ویژگی lag_28 اضافه شد
+2026-02-14 11:43:53 - time_series_preprocessor - INFO -    ✅ ویژگی lag_30 اضافه شد
+2026-02-14 11:43:53 - time_series_preprocessor - INFO -    ✅ ویژگی rolling_7_mean اضافه شد
+2026-02-14 11:43:53 - time_series_preprocessor - INFO -    ✅ ویژگی rolling_7_std اضافه شد
+2026-02-14 11:43:53 - time_series_preprocessor - INFO -    ✅ ویژگی rolling_7_min اضافه شد
+2026-02-14 11:43:53 - time_series_preprocessor - INFO -    ✅ ویژگی rolling_7_max اضافه شد
+2026-02-14 11:43:53 - time_series_preprocessor - INFO -    ✅ ویژگی rolling_14_mean اضافه شد
+2026-02-14 11:43:53 - time_series_preprocessor - INFO -    ✅ ویژگی rolling_14_std اضافه شد
+2026-02-14 11:43:53 - time_series_preprocessor - INFO -    ✅ ویژگی rolling_14_min اضافه شد
+2026-02-14 11:43:53 - time_series_preprocessor - INFO -    ✅ ویژگی rolling_14_max اضافه شد
+2026-02-14 11:43:53 - time_series_preprocessor - INFO -    ✅ ویژگی rolling_30_mean اضافه شد
+2026-02-14 11:43:53 - time_series_preprocessor - INFO -    ✅ ویژگی rolling_30_std اضافه شد
+2026-02-14 11:43:53 - time_series_preprocessor - INFO -    ✅ ویژگی rolling_30_min اضافه شد
+2026-02-14 11:43:53 - time_series_preprocessor - INFO -    ✅ ویژگی rolling_30_max اضافه شد
+2026-02-14 11:43:53 - time_series_preprocessor - INFO - ✅ 30 رکورد با NaN حذف شد
+2026-02-14 11:43:53 - time_series_preprocessor - INFO - ✅ پیش‌پردازش کامل شد:
+2026-02-14 11:43:53 - time_series_preprocessor - INFO -    - تعداد نمونه: 1970
+2026-02-14 11:43:53 - time_series_preprocessor - INFO -    - تعداد ویژگی‌ها: 70
+2026-02-14 11:43:53 - time_series_preprocessor - INFO -    - بازه زمانی: 2019-01-02 06:00:00 تا 2019-03-25 07:00:00
+2026-02-14 11:48:07 - time_series_preprocessor - INFO - ✅ TimeSeriesPreprocessor initialized
+2026-02-14 11:48:07 - time_series_preprocessor - INFO - 🚀 شروع پایپلاین پیش‌پردازش...
+2026-02-14 11:48:07 - time_series_preprocessor - INFO - ✅ داده‌ها بر اساس تاریخ مرتب شدند
+2026-02-14 11:48:07 - time_series_preprocessor - INFO - 🔍 بررسی مقادیر گمشده...
+2026-02-14 11:48:07 - time_series_preprocessor - INFO -    - تعداد مقادیر گمشده: 0 (0.00%)
+2026-02-14 11:48:07 - time_series_preprocessor - INFO -    ✅ ویژگی hour اضافه شد
+2026-02-14 11:48:07 - time_series_preprocessor - INFO -    ✅ ویژگی dayofweek اضافه شد
+2026-02-14 11:48:07 - time_series_preprocessor - INFO -    ✅ ویژگی dayofmonth اضافه شد
+2026-02-14 11:48:07 - time_series_preprocessor - INFO -    ✅ ویژگی month اضافه شد
+2026-02-14 11:48:07 - time_series_preprocessor - INFO -    ✅ ویژگی quarter اضافه شد
+2026-02-14 11:48:07 - time_series_preprocessor - INFO -    ✅ ویژگی year اضافه شد
+2026-02-14 11:48:07 - time_series_preprocessor - INFO -    ✅ ویژگی weekofyear اضافه شد
+2026-02-14 11:48:07 - time_series_preprocessor - INFO -    ✅ ویژگی is_weekend اضافه شد
+2026-02-14 11:48:07 - time_series_preprocessor - INFO -    ✅ 5 هارمونیک فوریه برای دوره 7 اضافه شد
+2026-02-14 11:48:07 - time_series_preprocessor - INFO -    ✅ 5 هارمونیک فوریه برای دوره 30 اضافه شد
+2026-02-14 11:48:07 - time_series_preprocessor - INFO -    ✅ 5 هارمونیک فوریه برای دوره 365 اضافه شد
+2026-02-14 11:48:07 - time_series_preprocessor - INFO -    ✅ ویژگی lag_1 اضافه شد
+2026-02-14 11:48:07 - time_series_preprocessor - INFO -    ✅ ویژگی lag_2 اضافه شد
+2026-02-14 11:48:07 - time_series_preprocessor - INFO -    ✅ ویژگی lag_3 اضافه شد
+2026-02-14 11:48:07 - time_series_preprocessor - INFO -    ✅ ویژگی lag_7 اضافه شد
+2026-02-14 11:48:07 - time_series_preprocessor - INFO -    ✅ ویژگی lag_14 اضافه شد
+2026-02-14 11:48:07 - time_series_preprocessor - INFO -    ✅ ویژگی lag_28 اضافه شد
+2026-02-14 11:48:07 - time_series_preprocessor - INFO -    ✅ ویژگی lag_30 اضافه شد
+2026-02-14 11:48:07 - time_series_preprocessor - INFO -    ✅ ویژگی rolling_7_mean اضافه شد
+2026-02-14 11:48:07 - time_series_preprocessor - INFO -    ✅ ویژگی rolling_7_std اضافه شد
+2026-02-14 11:48:07 - time_series_preprocessor - INFO -    ✅ ویژگی rolling_7_min اضافه شد
+2026-02-14 11:48:07 - time_series_preprocessor - INFO -    ✅ ویژگی rolling_7_max اضافه شد
+2026-02-14 11:48:07 - time_series_preprocessor - INFO -    ✅ ویژگی rolling_14_mean اضافه شد
+2026-02-14 11:48:07 - time_series_preprocessor - INFO -    ✅ ویژگی rolling_14_std اضافه شد
+2026-02-14 11:48:07 - time_series_preprocessor - INFO -    ✅ ویژگی rolling_14_min اضافه شد
+2026-02-14 11:48:07 - time_series_preprocessor - INFO -    ✅ ویژگی rolling_14_max اضافه شد
+2026-02-14 11:48:07 - time_series_preprocessor - INFO -    ✅ ویژگی rolling_30_mean اضافه شد
+2026-02-14 11:48:07 - time_series_preprocessor - INFO -    ✅ ویژگی rolling_30_std اضافه شد
+2026-02-14 11:48:07 - time_series_preprocessor - INFO -    ✅ ویژگی rolling_30_min اضافه شد
+2026-02-14 11:48:07 - time_series_preprocessor - INFO -    ✅ ویژگی rolling_30_max اضافه شد
+2026-02-14 11:48:07 - time_series_preprocessor - INFO - ✅ 30 رکورد با NaN حذف شد
+2026-02-14 11:48:07 - time_series_preprocessor - INFO - ✅ پیش‌پردازش کامل شد:
+2026-02-14 11:48:07 - time_series_preprocessor - INFO -    - تعداد نمونه: 970
+2026-02-14 11:48:07 - time_series_preprocessor - INFO -    - تعداد ویژگی‌ها: 69
+2026-02-14 11:48:07 - time_series_preprocessor - INFO -    - بازه زمانی: 2020-01-31 00:00:00 تا 2022-09-26 00:00:00
+2026-02-14 11:52:33 - time_series_preprocessor - INFO - ✅ TimeSeriesPreprocessor initialized
+2026-02-14 11:52:33 - time_series_preprocessor - INFO - 🚀 شروع پایپلاین پیش‌پردازش...
+2026-02-14 11:52:33 - time_series_preprocessor - INFO - ✅ داده‌ها بر اساس تاریخ مرتب شدند
+2026-02-14 11:52:33 - time_series_preprocessor - INFO - 🔍 بررسی مقادیر گمشده...
+2026-02-14 11:52:33 - time_series_preprocessor - INFO -    - تعداد مقادیر گمشده: 0 (0.00%)
+2026-02-14 11:52:33 - time_series_preprocessor - INFO - ⚠️ 116 داده پرت شناسایی شد
+2026-02-14 11:52:33 - time_series_preprocessor - INFO -    ✅ winsorize انجام شد
+2026-02-14 11:52:33 - time_series_preprocessor - INFO -    ✅ ویژگی hour اضافه شد
+2026-02-14 11:52:33 - time_series_preprocessor - INFO -    ✅ ویژگی dayofweek اضافه شد
+2026-02-14 11:52:33 - time_series_preprocessor - INFO -    ✅ ویژگی dayofmonth اضافه شد
+2026-02-14 11:52:33 - time_series_preprocessor - INFO -    ✅ ویژگی month اضافه شد
+2026-02-14 11:52:33 - time_series_preprocessor - INFO -    ✅ ویژگی quarter اضافه شد
+2026-02-14 11:52:33 - time_series_preprocessor - INFO -    ✅ ویژگی year اضافه شد
+2026-02-14 11:52:33 - time_series_preprocessor - INFO -    ✅ ویژگی weekofyear اضافه شد
+2026-02-14 11:52:33 - time_series_preprocessor - INFO -    ✅ ویژگی is_weekend اضافه شد
+2026-02-14 11:52:33 - time_series_preprocessor - INFO -    ✅ 5 هارمونیک فوریه برای دوره 7 اضافه شد
+2026-02-14 11:52:33 - time_series_preprocessor - INFO -    ✅ 5 هارمونیک فوریه برای دوره 30 اضافه شد
+2026-02-14 11:52:33 - time_series_preprocessor - INFO -    ✅ 5 هارمونیک فوریه برای دوره 365 اضافه شد
+2026-02-14 11:52:33 - time_series_preprocessor - INFO -    ✅ ویژگی lag_1 اضافه شد
+2026-02-14 11:52:33 - time_series_preprocessor - INFO -    ✅ ویژگی lag_2 اضافه شد
+2026-02-14 11:52:33 - time_series_preprocessor - INFO -    ✅ ویژگی lag_3 اضافه شد
+2026-02-14 11:52:33 - time_series_preprocessor - INFO -    ✅ ویژگی lag_7 اضافه شد
+2026-02-14 11:52:33 - time_series_preprocessor - INFO -    ✅ ویژگی lag_14 اضافه شد
+2026-02-14 11:52:33 - time_series_preprocessor - INFO -    ✅ ویژگی lag_28 اضافه شد
+2026-02-14 11:52:33 - time_series_preprocessor - INFO -    ✅ ویژگی lag_30 اضافه شد
+2026-02-14 11:52:33 - time_series_preprocessor - INFO -    ✅ ویژگی rolling_7_mean اضافه شد
+2026-02-14 11:52:33 - time_series_preprocessor - INFO -    ✅ ویژگی rolling_7_std اضافه شد
+2026-02-14 11:52:33 - time_series_preprocessor - INFO -    ✅ ویژگی rolling_7_min اضافه شد
+2026-02-14 11:52:33 - time_series_preprocessor - INFO -    ✅ ویژگی rolling_7_max اضافه شد
+2026-02-14 11:52:33 - time_series_preprocessor - INFO -    ✅ ویژگی rolling_14_mean اضافه شد
+2026-02-14 11:52:33 - time_series_preprocessor - INFO -    ✅ ویژگی rolling_14_std اضافه شد
+2026-02-14 11:52:33 - time_series_preprocessor - INFO -    ✅ ویژگی rolling_14_min اضافه شد
+2026-02-14 11:52:33 - time_series_preprocessor - INFO -    ✅ ویژگی rolling_14_max اضافه شد
+2026-02-14 11:52:33 - time_series_preprocessor - INFO -    ✅ ویژگی rolling_30_mean اضافه شد
+2026-02-14 11:52:33 - time_series_preprocessor - INFO -    ✅ ویژگی rolling_30_std اضافه شد
+2026-02-14 11:52:33 - time_series_preprocessor - INFO -    ✅ ویژگی rolling_30_min اضافه شد
+2026-02-14 11:52:33 - time_series_preprocessor - INFO -    ✅ ویژگی rolling_30_max اضافه شد
+2026-02-14 11:52:33 - time_series_preprocessor - INFO - ✅ 9770 رکورد با NaN حذف شد
+2026-02-14 11:52:33 - time_series_preprocessor - INFO - ✅ پیش‌پردازش کامل شد:
+2026-02-14 11:52:33 - time_series_preprocessor - INFO -    - تعداد نمونه: 230
+2026-02-14 11:52:33 - time_series_preprocessor - INFO -    - تعداد ویژگی‌ها: 97
+2026-02-14 11:52:33 - time_series_preprocessor - INFO -    - بازه زمانی: 2024-01-01 01:17:46.885256 تا 2024-01-19 15:44:05.572428

@@ -1,0 +1,230 @@
+2026-02-14 11:37:01 - arima_model - INFO - ✅ ARIMAModel initialized
+2026-02-14 11:37:01 - arima_model - INFO - 🚀 شروع آموزش مدل ARIMA...
+2026-02-14 11:37:01 - arima_model - INFO - 🔍 تعیین پارامترهای ARIMA...
+2026-02-14 11:37:01 - arima_model - INFO - 🔍 اجرای آزمون ایستایی ADF...
+2026-02-14 11:37:01 - arima_model - INFO -    - آماره ADF: -7050383236322.3086
+2026-02-14 11:37:01 - arima_model - INFO -    - p-value: 0.0000
+2026-02-14 11:37:01 - arima_model - INFO -    - ایستا: True
+2026-02-14 11:37:01 - arima_model - INFO - ✅ پارامترهای پیشنهادی: ARIMA(5, 0, 5)
+2026-02-14 11:37:02 - arima_model - INFO - ✅ مدل ARIMA(5, 0, 5) با موفقیت آموزش دید
+2026-02-14 11:37:02 - arima_model - INFO -    - AIC: 5442.44
+2026-02-14 11:37:02 - arima_model - INFO -    - BIC: 5501.34
+2026-02-14 11:38:01 - arima_model - INFO - ✅ ARIMAModel initialized
+2026-02-14 11:38:01 - arima_model - INFO - 🚀 شروع آموزش مدل ARIMA...
+2026-02-14 11:38:01 - arima_model - INFO - 🔍 تعیین پارامترهای ARIMA...
+2026-02-14 11:38:01 - arima_model - INFO - 🔍 اجرای آزمون ایستایی ADF...
+2026-02-14 11:38:01 - arima_model - INFO -    - آماره ADF: -7050383236322.3086
+2026-02-14 11:38:01 - arima_model - INFO -    - p-value: 0.0000
+2026-02-14 11:38:01 - arima_model - INFO -    - ایستا: True
+2026-02-14 11:38:01 - arima_model - INFO - ✅ پارامترهای پیشنهادی: ARIMA(5, 0, 5)
+2026-02-14 11:38:02 - arima_model - INFO - ✅ مدل ARIMA(5, 0, 5) با موفقیت آموزش دید
+2026-02-14 11:38:02 - arima_model - INFO -    - AIC: 5442.44
+2026-02-14 11:38:02 - arima_model - INFO -    - BIC: 5501.34
+2026-02-14 11:38:05 - arima_model - INFO - ✅ ARIMAModel initialized
+2026-02-14 11:38:05 - arima_model - INFO - 🚀 شروع آموزش مدل ARIMA...
+2026-02-14 11:38:05 - arima_model - INFO - 🔍 تعیین پارامترهای ARIMA...
+2026-02-14 11:38:05 - arima_model - INFO - 🔍 اجرای آزمون ایستایی ADF...
+2026-02-14 11:38:05 - arima_model - INFO -    - آماره ADF: -7050383236322.3086
+2026-02-14 11:38:05 - arima_model - INFO -    - p-value: 0.0000
+2026-02-14 11:38:05 - arima_model - INFO -    - ایستا: True
+2026-02-14 11:38:05 - arima_model - INFO - ✅ پارامترهای پیشنهادی: ARIMA(5, 0, 5)
+2026-02-14 11:38:06 - arima_model - INFO - ✅ مدل ARIMA(5, 0, 5) با موفقیت آموزش دید
+2026-02-14 11:38:06 - arima_model - INFO -    - AIC: 5442.44
+2026-02-14 11:38:06 - arima_model - INFO -    - BIC: 5501.34
+2026-02-14 11:38:07 - arima_model - INFO - ✅ ARIMAModel initialized
+2026-02-14 11:38:07 - arima_model - INFO - 🚀 شروع آموزش مدل ARIMA...
+2026-02-14 11:38:07 - arima_model - INFO - 🔍 تعیین پارامترهای ARIMA...
+2026-02-14 11:38:07 - arima_model - INFO - 🔍 اجرای آزمون ایستایی ADF...
+2026-02-14 11:38:07 - arima_model - INFO -    - آماره ADF: -7050383236322.3086
+2026-02-14 11:38:07 - arima_model - INFO -    - p-value: 0.0000
+2026-02-14 11:38:07 - arima_model - INFO -    - ایستا: True
+2026-02-14 11:38:07 - arima_model - INFO - ✅ پارامترهای پیشنهادی: ARIMA(5, 0, 5)
+2026-02-14 11:38:08 - arima_model - INFO - ✅ مدل ARIMA(5, 0, 5) با موفقیت آموزش دید
+2026-02-14 11:38:08 - arima_model - INFO -    - AIC: 5442.44
+2026-02-14 11:38:08 - arima_model - INFO -    - BIC: 5501.34
+2026-02-14 11:38:09 - arima_model - INFO - ✅ ARIMAModel initialized
+2026-02-14 11:38:09 - arima_model - INFO - 🚀 شروع آموزش مدل ARIMA...
+2026-02-14 11:38:09 - arima_model - INFO - 🔍 تعیین پارامترهای ARIMA...
+2026-02-14 11:38:09 - arima_model - INFO - 🔍 اجرای آزمون ایستایی ADF...
+2026-02-14 11:38:09 - arima_model - INFO -    - آماره ADF: -7050383236322.3086
+2026-02-14 11:38:09 - arima_model - INFO -    - p-value: 0.0000
+2026-02-14 11:38:09 - arima_model - INFO -    - ایستا: True
+2026-02-14 11:38:09 - arima_model - INFO - ✅ پارامترهای پیشنهادی: ARIMA(5, 0, 5)
+2026-02-14 11:38:10 - arima_model - INFO - ✅ مدل ARIMA(5, 0, 5) با موفقیت آموزش دید
+2026-02-14 11:38:10 - arima_model - INFO -    - AIC: 5442.44
+2026-02-14 11:38:10 - arima_model - INFO -    - BIC: 5501.34
+2026-02-14 11:43:58 - arima_model - INFO - ✅ ARIMAModel initialized
+2026-02-14 11:43:58 - arima_model - INFO - 🚀 شروع آموزش مدل ARIMA...
+2026-02-14 11:43:58 - arima_model - INFO - 🔍 تعیین پارامترهای ARIMA...
+2026-02-14 11:43:58 - arima_model - INFO - 🔍 اجرای آزمون ایستایی ADF...
+2026-02-14 11:43:58 - arima_model - INFO -    - آماره ADF: -2.5185
+2026-02-14 11:43:58 - arima_model - INFO -    - p-value: 0.1110
+2026-02-14 11:43:58 - arima_model - INFO -    - ایستا: False
+2026-02-14 11:43:58 - arima_model - INFO -    ✅ تفاضل مرتبه 1 گرفته شد
+2026-02-14 11:43:58 - arima_model - INFO - ✅ پارامترهای پیشنهادی: ARIMA(0, 1, 0)
+2026-02-14 11:43:58 - arima_model - INFO - ✅ مدل ARIMA(0, 1, 0) با موفقیت آموزش دید
+2026-02-14 11:43:58 - arima_model - INFO -    - AIC: 4631.11
+2026-02-14 11:43:58 - arima_model - INFO -    - BIC: 4636.48
+2026-02-14 11:44:29 - arima_model - INFO - ✅ ARIMAModel initialized
+2026-02-14 11:44:29 - arima_model - INFO - 🚀 شروع آموزش مدل ARIMA...
+2026-02-14 11:44:29 - arima_model - INFO - 🔍 تعیین پارامترهای ARIMA...
+2026-02-14 11:44:29 - arima_model - INFO - 🔍 اجرای آزمون ایستایی ADF...
+2026-02-14 11:44:29 - arima_model - INFO -    - آماره ADF: -2.5185
+2026-02-14 11:44:29 - arima_model - INFO -    - p-value: 0.1110
+2026-02-14 11:44:29 - arima_model - INFO -    - ایستا: False
+2026-02-14 11:44:29 - arima_model - INFO -    ✅ تفاضل مرتبه 1 گرفته شد
+2026-02-14 11:44:29 - arima_model - INFO - ✅ پارامترهای پیشنهادی: ARIMA(0, 1, 0)
+2026-02-14 11:44:29 - arima_model - INFO - ✅ مدل ARIMA(0, 1, 0) با موفقیت آموزش دید
+2026-02-14 11:44:29 - arima_model - INFO -    - AIC: 4631.11
+2026-02-14 11:44:29 - arima_model - INFO -    - BIC: 4636.48
+2026-02-14 11:44:31 - arima_model - INFO - ✅ ARIMAModel initialized
+2026-02-14 11:44:31 - arima_model - INFO - 🚀 شروع آموزش مدل ARIMA...
+2026-02-14 11:44:31 - arima_model - INFO - 🔍 تعیین پارامترهای ARIMA...
+2026-02-14 11:44:31 - arima_model - INFO - 🔍 اجرای آزمون ایستایی ADF...
+2026-02-14 11:44:31 - arima_model - INFO -    - آماره ADF: -2.5185
+2026-02-14 11:44:31 - arima_model - INFO -    - p-value: 0.1110
+2026-02-14 11:44:31 - arima_model - INFO -    - ایستا: False
+2026-02-14 11:44:31 - arima_model - INFO -    ✅ تفاضل مرتبه 1 گرفته شد
+2026-02-14 11:44:31 - arima_model - INFO - ✅ پارامترهای پیشنهادی: ARIMA(0, 1, 0)
+2026-02-14 11:44:31 - arima_model - INFO - ✅ مدل ARIMA(0, 1, 0) با موفقیت آموزش دید
+2026-02-14 11:44:31 - arima_model - INFO -    - AIC: 4631.11
+2026-02-14 11:44:31 - arima_model - INFO -    - BIC: 4636.48
+2026-02-14 11:48:18 - arima_model - INFO - ✅ ARIMAModel initialized
+2026-02-14 11:48:18 - arima_model - INFO - 🚀 شروع آموزش مدل ARIMA...
+2026-02-14 11:48:18 - arima_model - INFO - 🔍 تعیین پارامترهای ARIMA...
+2026-02-14 11:48:18 - arima_model - INFO - 🔍 اجرای آزمون ایستایی ADF...
+2026-02-14 11:48:18 - arima_model - INFO -    - آماره ADF: -2.5073
+2026-02-14 11:48:18 - arima_model - INFO -    - p-value: 0.1137
+2026-02-14 11:48:18 - arima_model - INFO -    - ایستا: False
+2026-02-14 11:48:18 - arima_model - INFO -    ✅ تفاضل مرتبه 1 گرفته شد
+2026-02-14 11:48:18 - arima_model - INFO - ✅ پارامترهای پیشنهادی: ARIMA(0, 1, 0)
+2026-02-14 11:48:18 - arima_model - INFO - ✅ مدل ARIMA(0, 1, 0) با موفقیت آموزش دید
+2026-02-14 11:48:18 - arima_model - INFO -    - AIC: 3798.70
+2026-02-14 11:48:18 - arima_model - INFO -    - BIC: 3803.38
+2026-02-14 11:48:23 - arima_model - INFO - ✅ ARIMAModel initialized
+2026-02-14 11:48:23 - arima_model - INFO - 🚀 شروع آموزش مدل ARIMA...
+2026-02-14 11:48:23 - arima_model - INFO - 🔍 تعیین پارامترهای ARIMA...
+2026-02-14 11:48:23 - arima_model - INFO - 🔍 اجرای آزمون ایستایی ADF...
+2026-02-14 11:48:23 - arima_model - INFO -    - آماره ADF: -2.5073
+2026-02-14 11:48:23 - arima_model - INFO -    - p-value: 0.1137
+2026-02-14 11:48:23 - arima_model - INFO -    - ایستا: False
+2026-02-14 11:48:23 - arima_model - INFO -    ✅ تفاضل مرتبه 1 گرفته شد
+2026-02-14 11:48:23 - arima_model - INFO - ✅ پارامترهای پیشنهادی: ARIMA(0, 1, 0)
+2026-02-14 11:48:23 - arima_model - INFO - ✅ مدل ARIMA(0, 1, 0) با موفقیت آموزش دید
+2026-02-14 11:48:23 - arima_model - INFO -    - AIC: 3798.70
+2026-02-14 11:48:23 - arima_model - INFO -    - BIC: 3803.38
+2026-02-14 11:48:28 - arima_model - INFO - ✅ ARIMAModel initialized
+2026-02-14 11:48:28 - arima_model - INFO - 🚀 شروع آموزش مدل ARIMA...
+2026-02-14 11:48:28 - arima_model - INFO - 🔍 تعیین پارامترهای ARIMA...
+2026-02-14 11:48:28 - arima_model - INFO - 🔍 اجرای آزمون ایستایی ADF...
+2026-02-14 11:48:28 - arima_model - INFO -    - آماره ADF: -2.5073
+2026-02-14 11:48:28 - arima_model - INFO -    - p-value: 0.1137
+2026-02-14 11:48:28 - arima_model - INFO -    - ایستا: False
+2026-02-14 11:48:28 - arima_model - INFO -    ✅ تفاضل مرتبه 1 گرفته شد
+2026-02-14 11:48:28 - arima_model - INFO - ✅ پارامترهای پیشنهادی: ARIMA(0, 1, 0)
+2026-02-14 11:48:28 - arima_model - INFO - ✅ مدل ARIMA(0, 1, 0) با موفقیت آموزش دید
+2026-02-14 11:48:28 - arima_model - INFO -    - AIC: 3798.70
+2026-02-14 11:48:28 - arima_model - INFO -    - BIC: 3803.38
+2026-02-14 11:48:46 - arima_model - INFO - ✅ ARIMAModel initialized
+2026-02-14 11:48:46 - arima_model - INFO - 🚀 شروع آموزش مدل ARIMA...
+2026-02-14 11:48:46 - arima_model - INFO - 🔍 تعیین پارامترهای ARIMA...
+2026-02-14 11:48:46 - arima_model - INFO - 🔍 اجرای آزمون ایستایی ADF...
+2026-02-14 11:48:46 - arima_model - INFO -    - آماره ADF: -2.5073
+2026-02-14 11:48:46 - arima_model - INFO -    - p-value: 0.1137
+2026-02-14 11:48:46 - arima_model - INFO -    - ایستا: False
+2026-02-14 11:48:46 - arima_model - INFO -    ✅ تفاضل مرتبه 1 گرفته شد
+2026-02-14 11:48:46 - arima_model - INFO - ✅ پارامترهای پیشنهادی: ARIMA(0, 1, 0)
+2026-02-14 11:48:46 - arima_model - INFO - ✅ مدل ARIMA(0, 1, 0) با موفقیت آموزش دید
+2026-02-14 11:48:46 - arima_model - INFO -    - AIC: 3798.70
+2026-02-14 11:48:46 - arima_model - INFO -    - BIC: 3803.38
+2026-02-14 11:48:48 - arima_model - INFO - ✅ ARIMAModel initialized
+2026-02-14 11:48:48 - arima_model - INFO - 🚀 شروع آموزش مدل ARIMA...
+2026-02-14 11:48:48 - arima_model - INFO - 🔍 تعیین پارامترهای ARIMA...
+2026-02-14 11:48:48 - arima_model - INFO - 🔍 اجرای آزمون ایستایی ADF...
+2026-02-14 11:48:48 - arima_model - INFO -    - آماره ADF: -2.5073
+2026-02-14 11:48:48 - arima_model - INFO -    - p-value: 0.1137
+2026-02-14 11:48:48 - arima_model - INFO -    - ایستا: False
+2026-02-14 11:48:48 - arima_model - INFO -    ✅ تفاضل مرتبه 1 گرفته شد
+2026-02-14 11:48:48 - arima_model - INFO - ✅ پارامترهای پیشنهادی: ARIMA(0, 1, 0)
+2026-02-14 11:48:48 - arima_model - INFO - ✅ مدل ARIMA(0, 1, 0) با موفقیت آموزش دید
+2026-02-14 11:48:48 - arima_model - INFO -    - AIC: 3798.70
+2026-02-14 11:48:48 - arima_model - INFO -    - BIC: 3803.38
+2026-02-14 11:48:51 - arima_model - INFO - ✅ ARIMAModel initialized
+2026-02-14 11:48:51 - arima_model - INFO - 🚀 شروع آموزش مدل ARIMA...
+2026-02-14 11:48:51 - arima_model - INFO - 🔍 تعیین پارامترهای ARIMA...
+2026-02-14 11:48:51 - arima_model - INFO - 🔍 اجرای آزمون ایستایی ADF...
+2026-02-14 11:48:51 - arima_model - INFO -    - آماره ADF: -2.5073
+2026-02-14 11:48:51 - arima_model - INFO -    - p-value: 0.1137
+2026-02-14 11:48:51 - arima_model - INFO -    - ایستا: False
+2026-02-14 11:48:51 - arima_model - INFO -    ✅ تفاضل مرتبه 1 گرفته شد
+2026-02-14 11:48:51 - arima_model - INFO - ✅ پارامترهای پیشنهادی: ARIMA(0, 1, 0)
+2026-02-14 11:48:51 - arima_model - INFO - ✅ مدل ARIMA(0, 1, 0) با موفقیت آموزش دید
+2026-02-14 11:48:51 - arima_model - INFO -    - AIC: 3798.70
+2026-02-14 11:48:51 - arima_model - INFO -    - BIC: 3803.38
+2026-02-14 11:49:16 - arima_model - INFO - ✅ ARIMAModel initialized
+2026-02-14 11:49:16 - arima_model - INFO - 🚀 شروع آموزش مدل ARIMA...
+2026-02-14 11:49:16 - arima_model - INFO - 🔍 تعیین پارامترهای ARIMA...
+2026-02-14 11:49:16 - arima_model - INFO - 🔍 اجرای آزمون ایستایی ADF...
+2026-02-14 11:49:16 - arima_model - INFO -    - آماره ADF: -2.5073
+2026-02-14 11:49:16 - arima_model - INFO -    - p-value: 0.1137
+2026-02-14 11:49:16 - arima_model - INFO -    - ایستا: False
+2026-02-14 11:49:16 - arima_model - INFO -    ✅ تفاضل مرتبه 1 گرفته شد
+2026-02-14 11:49:16 - arima_model - INFO - ✅ پارامترهای پیشنهادی: ARIMA(0, 1, 0)
+2026-02-14 11:49:16 - arima_model - INFO - ✅ مدل ARIMA(0, 1, 0) با موفقیت آموزش دید
+2026-02-14 11:49:16 - arima_model - INFO -    - AIC: 3798.70
+2026-02-14 11:49:16 - arima_model - INFO -    - BIC: 3803.38
+2026-02-14 11:52:36 - arima_model - INFO - ✅ ARIMAModel initialized
+2026-02-14 11:52:36 - arima_model - INFO - 🚀 شروع آموزش مدل ARIMA...
+2026-02-14 11:52:36 - arima_model - INFO - 🔍 تعیین پارامترهای ARIMA...
+2026-02-14 11:52:36 - arima_model - INFO - 🔍 اجرای آزمون ایستایی ADF...
+2026-02-14 11:52:36 - arima_model - INFO -    - آماره ADF: -21.1536
+2026-02-14 11:52:36 - arima_model - INFO -    - p-value: 0.0000
+2026-02-14 11:52:36 - arima_model - INFO -    - ایستا: True
+2026-02-14 11:52:36 - arima_model - INFO - ✅ پارامترهای پیشنهادی: ARIMA(5, 0, 5)
+2026-02-14 11:52:42 - arima_model - INFO - ✅ مدل ARIMA(5, 0, 5) با موفقیت آموزش دید
+2026-02-14 11:52:42 - arima_model - INFO -    - AIC: 105064.84
+2026-02-14 11:52:42 - arima_model - INFO -    - BIC: 105148.68
+2026-02-14 11:52:43 - arima_model - INFO - ✅ ARIMAModel initialized
+2026-02-14 11:52:43 - arima_model - INFO - 🚀 شروع آموزش مدل ARIMA...
+2026-02-14 11:52:43 - arima_model - INFO - 🔍 تعیین پارامترهای ARIMA...
+2026-02-14 11:52:43 - arima_model - INFO - 🔍 اجرای آزمون ایستایی ADF...
+2026-02-14 11:52:43 - arima_model - INFO -    - آماره ADF: -21.1536
+2026-02-14 11:52:43 - arima_model - INFO -    - p-value: 0.0000
+2026-02-14 11:52:43 - arima_model - INFO -    - ایستا: True
+2026-02-14 11:52:43 - arima_model - INFO - ✅ پارامترهای پیشنهادی: ARIMA(5, 0, 5)
+2026-02-14 11:52:50 - arima_model - INFO - ✅ مدل ARIMA(5, 0, 5) با موفقیت آموزش دید
+2026-02-14 11:52:50 - arima_model - INFO -    - AIC: 105064.84
+2026-02-14 11:52:50 - arima_model - INFO -    - BIC: 105148.68
+2026-02-14 11:52:59 - arima_model - INFO - ✅ ARIMAModel initialized
+2026-02-14 11:52:59 - arima_model - INFO - 🚀 شروع آموزش مدل ARIMA...
+2026-02-14 11:52:59 - arima_model - INFO - 🔍 تعیین پارامترهای ARIMA...
+2026-02-14 11:52:59 - arima_model - INFO - 🔍 اجرای آزمون ایستایی ADF...
+2026-02-14 11:52:59 - arima_model - INFO -    - آماره ADF: -21.1536
+2026-02-14 11:52:59 - arima_model - INFO -    - p-value: 0.0000
+2026-02-14 11:52:59 - arima_model - INFO -    - ایستا: True
+2026-02-14 11:52:59 - arima_model - INFO - ✅ پارامترهای پیشنهادی: ARIMA(5, 0, 5)
+2026-02-14 11:53:05 - arima_model - INFO - ✅ مدل ARIMA(5, 0, 5) با موفقیت آموزش دید
+2026-02-14 11:53:05 - arima_model - INFO -    - AIC: 105064.84
+2026-02-14 11:53:05 - arima_model - INFO -    - BIC: 105148.68
+2026-02-14 11:53:21 - arima_model - INFO - ✅ ARIMAModel initialized
+2026-02-14 11:53:21 - arima_model - INFO - 🚀 شروع آموزش مدل ARIMA...
+2026-02-14 11:53:21 - arima_model - INFO - 🔍 تعیین پارامترهای ARIMA...
+2026-02-14 11:53:21 - arima_model - INFO - 🔍 اجرای آزمون ایستایی ADF...
+2026-02-14 11:53:22 - arima_model - INFO -    - آماره ADF: -21.1536
+2026-02-14 11:53:22 - arima_model - INFO -    - p-value: 0.0000
+2026-02-14 11:53:22 - arima_model - INFO -    - ایستا: True
+2026-02-14 11:53:22 - arima_model - INFO - ✅ پارامترهای پیشنهادی: ARIMA(5, 0, 5)
+2026-02-14 11:53:25 - arima_model - INFO - ✅ ARIMAModel initialized
+2026-02-14 11:53:25 - arima_model - INFO - 🚀 شروع آموزش مدل ARIMA...
+2026-02-14 11:53:25 - arima_model - INFO - 🔍 تعیین پارامترهای ARIMA...
+2026-02-14 11:53:25 - arima_model - INFO - 🔍 اجرای آزمون ایستایی ADF...
+2026-02-14 11:53:28 - arima_model - INFO - ✅ مدل ARIMA(5, 0, 5) با موفقیت آموزش دید
+2026-02-14 11:53:28 - arima_model - INFO -    - AIC: 105064.84
+2026-02-14 11:53:28 - arima_model - INFO -    - BIC: 105148.68
+2026-02-14 11:53:28 - arima_model - INFO -    - آماره ADF: -21.1536
+2026-02-14 11:53:28 - arima_model - INFO -    - p-value: 0.0000
+2026-02-14 11:53:28 - arima_model - INFO -    - ایستا: True
+2026-02-14 11:53:28 - arima_model - INFO - ✅ پارامترهای پیشنهادی: ARIMA(5, 0, 5)
+2026-02-14 11:53:35 - arima_model - INFO - ✅ مدل ARIMA(5, 0, 5) با موفقیت آموزش دید
+2026-02-14 11:53:35 - arima_model - INFO -    - AIC: 105064.84
+2026-02-14 11:53:35 - arima_model - INFO -    - BIC: 105148.68

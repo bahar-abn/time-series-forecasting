@@ -1,0 +1,274 @@
+2026-02-14 11:23:00 - time_series_metrics - INFO - ✅ TimeSeriesMetrics initialized
+2026-02-14 11:23:00 - time_series_metrics - INFO - ✅ TimeSeriesMetrics initialized
+2026-02-14 11:27:42 - time_series_metrics - INFO - ✅ TimeSeriesMetrics initialized
+2026-02-14 11:27:42 - time_series_metrics - INFO - ✅ TimeSeriesMetrics initialized
+2026-02-14 11:28:27 - time_series_metrics - INFO - ✅ TimeSeriesMetrics initialized
+2026-02-14 11:28:27 - time_series_metrics - INFO - ✅ TimeSeriesMetrics initialized
+2026-02-14 11:36:10 - time_series_metrics - INFO - ✅ TimeSeriesMetrics initialized
+2026-02-14 11:36:10 - time_series_metrics - INFO - ✅ TimeSeriesMetrics initialized
+2026-02-14 11:42:41 - time_series_metrics - INFO - ✅ TimeSeriesMetrics initialized
+2026-02-14 11:42:41 - time_series_metrics - INFO - ✅ TimeSeriesMetrics initialized
+2026-02-14 11:43:58 - time_series_metrics - INFO - 🚀 تولید گزارش کامل برای Model...
+2026-02-14 11:43:58 - time_series_metrics - INFO - ✅ گزارش کامل برای Model تولید شد
+2026-02-14 11:43:58 - time_series_metrics - INFO -    - RMSE: 9.77
+2026-02-14 11:43:58 - time_series_metrics - INFO -    - MAPE: 46.57%
+2026-02-14 11:43:58 - time_series_metrics - INFO -    - R²: -3.102
+2026-02-14 11:44:01 - time_series_metrics - INFO - 🚀 تولید گزارش کامل برای Model...
+2026-02-14 11:44:01 - time_series_metrics - INFO - ✅ گزارش کامل برای Model تولید شد
+2026-02-14 11:44:01 - time_series_metrics - INFO -    - RMSE: 415.52
+2026-02-14 11:44:01 - time_series_metrics - INFO -    - MAPE: 1985.80%
+2026-02-14 11:44:01 - time_series_metrics - INFO -    - R²: -7412.253
+2026-02-14 11:44:29 - time_series_metrics - INFO - 🚀 تولید گزارش کامل برای Model...
+2026-02-14 11:44:29 - time_series_metrics - INFO - ✅ گزارش کامل برای Model تولید شد
+2026-02-14 11:44:29 - time_series_metrics - INFO -    - RMSE: 9.77
+2026-02-14 11:44:29 - time_series_metrics - INFO -    - MAPE: 46.57%
+2026-02-14 11:44:29 - time_series_metrics - INFO -    - R²: -3.102
+2026-02-14 11:44:30 - time_series_metrics - INFO - 🚀 تولید گزارش کامل برای Model...
+2026-02-14 11:44:30 - time_series_metrics - INFO - ✅ گزارش کامل برای Model تولید شد
+2026-02-14 11:44:30 - time_series_metrics - INFO -    - RMSE: 415.52
+2026-02-14 11:44:30 - time_series_metrics - INFO -    - MAPE: 1985.80%
+2026-02-14 11:44:30 - time_series_metrics - INFO -    - R²: -7412.253
+2026-02-14 11:44:31 - time_series_metrics - INFO - 🚀 تولید گزارش کامل برای Model...
+2026-02-14 11:44:31 - time_series_metrics - INFO - ✅ گزارش کامل برای Model تولید شد
+2026-02-14 11:44:31 - time_series_metrics - INFO -    - RMSE: 9.77
+2026-02-14 11:44:31 - time_series_metrics - INFO -    - MAPE: 46.57%
+2026-02-14 11:44:31 - time_series_metrics - INFO -    - R²: -3.102
+2026-02-14 11:44:32 - time_series_metrics - INFO - 🚀 تولید گزارش کامل برای Model...
+2026-02-14 11:44:32 - time_series_metrics - INFO - ✅ گزارش کامل برای Model تولید شد
+2026-02-14 11:44:32 - time_series_metrics - INFO -    - RMSE: 415.52
+2026-02-14 11:44:32 - time_series_metrics - INFO -    - MAPE: 1985.80%
+2026-02-14 11:44:32 - time_series_metrics - INFO -    - R²: -7412.253
+2026-02-14 11:47:40 - time_series_metrics - INFO - ✅ TimeSeriesMetrics initialized
+2026-02-14 11:47:40 - time_series_metrics - INFO - ✅ TimeSeriesMetrics initialized
+2026-02-14 11:48:18 - time_series_metrics - INFO - 🚀 تولید گزارش کامل برای Model...
+2026-02-14 11:48:18 - time_series_metrics - INFO - ✅ گزارش کامل برای Model تولید شد
+2026-02-14 11:48:18 - time_series_metrics - INFO -    - RMSE: 16.56
+2026-02-14 11:48:18 - time_series_metrics - INFO -    - MAPE: 52.91%
+2026-02-14 11:48:18 - time_series_metrics - INFO -    - R²: -3.025
+2026-02-14 11:48:18 - time_series_metrics - INFO - 🚀 تولید گزارش کامل برای Model...
+2026-02-14 11:48:18 - time_series_metrics - INFO - ✅ گزارش کامل برای Model تولید شد
+2026-02-14 11:48:18 - time_series_metrics - INFO -    - RMSE: 1.04
+2026-02-14 11:48:18 - time_series_metrics - INFO -    - MAPE: 3.96%
+2026-02-14 11:48:18 - time_series_metrics - INFO -    - R²: 0.984
+2026-02-14 11:48:23 - time_series_metrics - INFO - 🚀 تولید گزارش کامل برای Model...
+2026-02-14 11:48:23 - time_series_metrics - INFO - ✅ گزارش کامل برای Model تولید شد
+2026-02-14 11:48:23 - time_series_metrics - INFO -    - RMSE: 16.56
+2026-02-14 11:48:23 - time_series_metrics - INFO -    - MAPE: 52.91%
+2026-02-14 11:48:23 - time_series_metrics - INFO -    - R²: -3.025
+2026-02-14 11:48:23 - time_series_metrics - INFO - 🚀 تولید گزارش کامل برای Model...
+2026-02-14 11:48:23 - time_series_metrics - INFO - ✅ گزارش کامل برای Model تولید شد
+2026-02-14 11:48:23 - time_series_metrics - INFO -    - RMSE: 1.04
+2026-02-14 11:48:23 - time_series_metrics - INFO -    - MAPE: 3.96%
+2026-02-14 11:48:23 - time_series_metrics - INFO -    - R²: 0.984
+2026-02-14 11:48:28 - time_series_metrics - INFO - 🚀 تولید گزارش کامل برای Model...
+2026-02-14 11:48:28 - time_series_metrics - INFO - ✅ گزارش کامل برای Model تولید شد
+2026-02-14 11:48:28 - time_series_metrics - INFO -    - RMSE: 16.56
+2026-02-14 11:48:28 - time_series_metrics - INFO -    - MAPE: 52.91%
+2026-02-14 11:48:28 - time_series_metrics - INFO -    - R²: -3.025
+2026-02-14 11:48:28 - time_series_metrics - INFO - 🚀 تولید گزارش کامل برای Model...
+2026-02-14 11:48:28 - time_series_metrics - INFO - ✅ گزارش کامل برای Model تولید شد
+2026-02-14 11:48:28 - time_series_metrics - INFO -    - RMSE: 1.04
+2026-02-14 11:48:28 - time_series_metrics - INFO -    - MAPE: 3.96%
+2026-02-14 11:48:28 - time_series_metrics - INFO -    - R²: 0.984
+2026-02-14 11:48:46 - time_series_metrics - INFO - 🚀 تولید گزارش کامل برای Model...
+2026-02-14 11:48:46 - time_series_metrics - INFO - ✅ گزارش کامل برای Model تولید شد
+2026-02-14 11:48:46 - time_series_metrics - INFO -    - RMSE: 16.56
+2026-02-14 11:48:46 - time_series_metrics - INFO -    - MAPE: 52.91%
+2026-02-14 11:48:46 - time_series_metrics - INFO -    - R²: -3.025
+2026-02-14 11:48:46 - time_series_metrics - INFO - 🚀 تولید گزارش کامل برای Model...
+2026-02-14 11:48:46 - time_series_metrics - INFO - ✅ گزارش کامل برای Model تولید شد
+2026-02-14 11:48:46 - time_series_metrics - INFO -    - RMSE: 1.04
+2026-02-14 11:48:46 - time_series_metrics - INFO -    - MAPE: 3.96%
+2026-02-14 11:48:46 - time_series_metrics - INFO -    - R²: 0.984
+2026-02-14 11:48:48 - time_series_metrics - INFO - 🚀 تولید گزارش کامل برای Model...
+2026-02-14 11:48:48 - time_series_metrics - INFO - ✅ گزارش کامل برای Model تولید شد
+2026-02-14 11:48:48 - time_series_metrics - INFO -    - RMSE: 16.56
+2026-02-14 11:48:48 - time_series_metrics - INFO -    - MAPE: 52.91%
+2026-02-14 11:48:48 - time_series_metrics - INFO -    - R²: -3.025
+2026-02-14 11:48:48 - time_series_metrics - INFO - 🚀 تولید گزارش کامل برای Model...
+2026-02-14 11:48:48 - time_series_metrics - INFO - ✅ گزارش کامل برای Model تولید شد
+2026-02-14 11:48:48 - time_series_metrics - INFO -    - RMSE: 1.04
+2026-02-14 11:48:48 - time_series_metrics - INFO -    - MAPE: 3.96%
+2026-02-14 11:48:48 - time_series_metrics - INFO -    - R²: 0.984
+2026-02-14 11:48:51 - time_series_metrics - INFO - 🚀 تولید گزارش کامل برای Model...
+2026-02-14 11:48:51 - time_series_metrics - INFO - ✅ گزارش کامل برای Model تولید شد
+2026-02-14 11:48:51 - time_series_metrics - INFO -    - RMSE: 16.56
+2026-02-14 11:48:51 - time_series_metrics - INFO -    - MAPE: 52.91%
+2026-02-14 11:48:51 - time_series_metrics - INFO -    - R²: -3.025
+2026-02-14 11:48:51 - time_series_metrics - INFO - 🚀 تولید گزارش کامل برای Model...
+2026-02-14 11:48:51 - time_series_metrics - INFO - ✅ گزارش کامل برای Model تولید شد
+2026-02-14 11:48:51 - time_series_metrics - INFO -    - RMSE: 1.04
+2026-02-14 11:48:51 - time_series_metrics - INFO -    - MAPE: 3.96%
+2026-02-14 11:48:51 - time_series_metrics - INFO -    - R²: 0.984
+2026-02-14 11:49:16 - time_series_metrics - INFO - 🚀 تولید گزارش کامل برای Model...
+2026-02-14 11:49:16 - time_series_metrics - INFO - ✅ گزارش کامل برای Model تولید شد
+2026-02-14 11:49:16 - time_series_metrics - INFO -    - RMSE: 16.56
+2026-02-14 11:49:16 - time_series_metrics - INFO -    - MAPE: 52.91%
+2026-02-14 11:49:16 - time_series_metrics - INFO -    - R²: -3.025
+2026-02-14 11:49:16 - time_series_metrics - INFO - 🚀 تولید گزارش کامل برای Model...
+2026-02-14 11:49:16 - time_series_metrics - INFO - ✅ گزارش کامل برای Model تولید شد
+2026-02-14 11:49:16 - time_series_metrics - INFO -    - RMSE: 1.04
+2026-02-14 11:49:16 - time_series_metrics - INFO -    - MAPE: 3.96%
+2026-02-14 11:49:16 - time_series_metrics - INFO -    - R²: 0.984
+2026-02-14 11:52:09 - time_series_metrics - INFO - ✅ TimeSeriesMetrics initialized
+2026-02-14 11:52:09 - time_series_metrics - INFO - ✅ TimeSeriesMetrics initialized
+2026-02-14 11:52:36 - time_series_metrics - INFO - 🚀 تولید گزارش کامل برای Model...
+2026-02-14 11:52:36 - time_series_metrics - INFO - ✅ گزارش کامل برای Model تولید شد
+2026-02-14 11:52:36 - time_series_metrics - INFO -    - RMSE: 212.05
+2026-02-14 11:52:36 - time_series_metrics - INFO -    - MAPE: 61.85%
+2026-02-14 11:52:36 - time_series_metrics - INFO -    - R²: -0.123
+2026-02-14 11:52:36 - time_series_metrics - INFO - 🚀 تولید گزارش کامل برای Model...
+2026-02-14 11:52:36 - time_series_metrics - INFO - ✅ گزارش کامل برای Model تولید شد
+2026-02-14 11:52:36 - time_series_metrics - INFO -    - RMSE: 200.64
+2026-02-14 11:52:36 - time_series_metrics - INFO -    - MAPE: 137.93%
+2026-02-14 11:52:36 - time_series_metrics - INFO -    - R²: -0.005
+2026-02-14 11:52:36 - time_series_metrics - INFO - 🚀 تولید گزارش کامل برای Model...
+2026-02-14 11:52:36 - time_series_metrics - INFO - ✅ گزارش کامل برای Model تولید شد
+2026-02-14 11:52:36 - time_series_metrics - INFO -    - RMSE: 202.63
+2026-02-14 11:52:36 - time_series_metrics - INFO -    - MAPE: 86.40%
+2026-02-14 11:52:36 - time_series_metrics - INFO -    - R²: -0.025
+2026-02-14 11:52:36 - time_series_metrics - INFO - 🚀 تولید گزارش کامل برای Model...
+2026-02-14 11:52:36 - time_series_metrics - INFO - ✅ گزارش کامل برای Model تولید شد
+2026-02-14 11:52:36 - time_series_metrics - INFO -    - RMSE: 202.86
+2026-02-14 11:52:36 - time_series_metrics - INFO -    - MAPE: 85.11%
+2026-02-14 11:52:36 - time_series_metrics - INFO -    - R²: -0.028
+2026-02-14 11:52:36 - time_series_metrics - INFO - 🚀 تولید گزارش کامل برای Model...
+2026-02-14 11:52:36 - time_series_metrics - INFO - ✅ گزارش کامل برای Model تولید شد
+2026-02-14 11:52:36 - time_series_metrics - INFO -    - RMSE: 204.43
+2026-02-14 11:52:36 - time_series_metrics - INFO -    - MAPE: 90.79%
+2026-02-14 11:52:36 - time_series_metrics - INFO -    - R²: -0.044
+2026-02-14 11:52:42 - time_series_metrics - INFO - 🚀 تولید گزارش کامل برای Model...
+2026-02-14 11:52:42 - time_series_metrics - INFO - ✅ گزارش کامل برای Model تولید شد
+2026-02-14 11:52:42 - time_series_metrics - INFO -    - RMSE: 200.63
+2026-02-14 11:52:42 - time_series_metrics - INFO -    - MAPE: 137.90%
+2026-02-14 11:52:42 - time_series_metrics - INFO -    - R²: -0.005
+2026-02-14 11:52:43 - time_series_metrics - INFO - 🚀 تولید گزارش کامل برای Model...
+2026-02-14 11:52:43 - time_series_metrics - INFO - ✅ گزارش کامل برای Model تولید شد
+2026-02-14 11:52:43 - time_series_metrics - INFO -    - RMSE: 212.05
+2026-02-14 11:52:43 - time_series_metrics - INFO -    - MAPE: 61.85%
+2026-02-14 11:52:43 - time_series_metrics - INFO -    - R²: -0.123
+2026-02-14 11:52:43 - time_series_metrics - INFO - 🚀 تولید گزارش کامل برای Model...
+2026-02-14 11:52:43 - time_series_metrics - INFO - ✅ گزارش کامل برای Model تولید شد
+2026-02-14 11:52:43 - time_series_metrics - INFO -    - RMSE: 200.64
+2026-02-14 11:52:43 - time_series_metrics - INFO -    - MAPE: 137.93%
+2026-02-14 11:52:43 - time_series_metrics - INFO -    - R²: -0.005
+2026-02-14 11:52:43 - time_series_metrics - INFO - 🚀 تولید گزارش کامل برای Model...
+2026-02-14 11:52:43 - time_series_metrics - INFO - ✅ گزارش کامل برای Model تولید شد
+2026-02-14 11:52:43 - time_series_metrics - INFO -    - RMSE: 202.63
+2026-02-14 11:52:43 - time_series_metrics - INFO -    - MAPE: 86.40%
+2026-02-14 11:52:43 - time_series_metrics - INFO -    - R²: -0.025
+2026-02-14 11:52:43 - time_series_metrics - INFO - 🚀 تولید گزارش کامل برای Model...
+2026-02-14 11:52:43 - time_series_metrics - INFO - ✅ گزارش کامل برای Model تولید شد
+2026-02-14 11:52:43 - time_series_metrics - INFO -    - RMSE: 202.86
+2026-02-14 11:52:43 - time_series_metrics - INFO -    - MAPE: 85.11%
+2026-02-14 11:52:43 - time_series_metrics - INFO -    - R²: -0.028
+2026-02-14 11:52:43 - time_series_metrics - INFO - 🚀 تولید گزارش کامل برای Model...
+2026-02-14 11:52:43 - time_series_metrics - INFO - ✅ گزارش کامل برای Model تولید شد
+2026-02-14 11:52:43 - time_series_metrics - INFO -    - RMSE: 204.43
+2026-02-14 11:52:43 - time_series_metrics - INFO -    - MAPE: 90.79%
+2026-02-14 11:52:43 - time_series_metrics - INFO -    - R²: -0.044
+2026-02-14 11:52:50 - time_series_metrics - INFO - 🚀 تولید گزارش کامل برای Model...
+2026-02-14 11:52:50 - time_series_metrics - INFO - ✅ گزارش کامل برای Model تولید شد
+2026-02-14 11:52:50 - time_series_metrics - INFO -    - RMSE: 200.63
+2026-02-14 11:52:50 - time_series_metrics - INFO -    - MAPE: 137.90%
+2026-02-14 11:52:50 - time_series_metrics - INFO -    - R²: -0.005
+2026-02-14 11:52:51 - time_series_metrics - INFO - 🚀 تولید گزارش کامل برای Model...
+2026-02-14 11:52:51 - time_series_metrics - INFO - ✅ گزارش کامل برای Model تولید شد
+2026-02-14 11:52:51 - time_series_metrics - INFO -    - RMSE: 200.97
+2026-02-14 11:52:51 - time_series_metrics - INFO -    - MAPE: 106.53%
+2026-02-14 11:52:51 - time_series_metrics - INFO -    - R²: -0.009
+2026-02-14 11:52:59 - time_series_metrics - INFO - 🚀 تولید گزارش کامل برای Model...
+2026-02-14 11:52:59 - time_series_metrics - INFO - ✅ گزارش کامل برای Model تولید شد
+2026-02-14 11:52:59 - time_series_metrics - INFO -    - RMSE: 212.05
+2026-02-14 11:52:59 - time_series_metrics - INFO -    - MAPE: 61.85%
+2026-02-14 11:52:59 - time_series_metrics - INFO -    - R²: -0.123
+2026-02-14 11:52:59 - time_series_metrics - INFO - 🚀 تولید گزارش کامل برای Model...
+2026-02-14 11:52:59 - time_series_metrics - INFO - ✅ گزارش کامل برای Model تولید شد
+2026-02-14 11:52:59 - time_series_metrics - INFO -    - RMSE: 200.64
+2026-02-14 11:52:59 - time_series_metrics - INFO -    - MAPE: 137.93%
+2026-02-14 11:52:59 - time_series_metrics - INFO -    - R²: -0.005
+2026-02-14 11:52:59 - time_series_metrics - INFO - 🚀 تولید گزارش کامل برای Model...
+2026-02-14 11:52:59 - time_series_metrics - INFO - ✅ گزارش کامل برای Model تولید شد
+2026-02-14 11:52:59 - time_series_metrics - INFO -    - RMSE: 202.63
+2026-02-14 11:52:59 - time_series_metrics - INFO -    - MAPE: 86.40%
+2026-02-14 11:52:59 - time_series_metrics - INFO -    - R²: -0.025
+2026-02-14 11:52:59 - time_series_metrics - INFO - 🚀 تولید گزارش کامل برای Model...
+2026-02-14 11:52:59 - time_series_metrics - INFO - ✅ گزارش کامل برای Model تولید شد
+2026-02-14 11:52:59 - time_series_metrics - INFO -    - RMSE: 202.86
+2026-02-14 11:52:59 - time_series_metrics - INFO -    - MAPE: 85.11%
+2026-02-14 11:52:59 - time_series_metrics - INFO -    - R²: -0.028
+2026-02-14 11:52:59 - time_series_metrics - INFO - 🚀 تولید گزارش کامل برای Model...
+2026-02-14 11:52:59 - time_series_metrics - INFO - ✅ گزارش کامل برای Model تولید شد
+2026-02-14 11:52:59 - time_series_metrics - INFO -    - RMSE: 204.43
+2026-02-14 11:52:59 - time_series_metrics - INFO -    - MAPE: 90.79%
+2026-02-14 11:52:59 - time_series_metrics - INFO -    - R²: -0.044
+2026-02-14 11:53:05 - time_series_metrics - INFO - 🚀 تولید گزارش کامل برای Model...
+2026-02-14 11:53:05 - time_series_metrics - INFO - ✅ گزارش کامل برای Model تولید شد
+2026-02-14 11:53:05 - time_series_metrics - INFO -    - RMSE: 200.63
+2026-02-14 11:53:05 - time_series_metrics - INFO -    - MAPE: 137.90%
+2026-02-14 11:53:05 - time_series_metrics - INFO -    - R²: -0.005
+2026-02-14 11:53:07 - time_series_metrics - INFO - 🚀 تولید گزارش کامل برای Model...
+2026-02-14 11:53:07 - time_series_metrics - INFO - ✅ گزارش کامل برای Model تولید شد
+2026-02-14 11:53:07 - time_series_metrics - INFO -    - RMSE: 200.97
+2026-02-14 11:53:07 - time_series_metrics - INFO -    - MAPE: 106.53%
+2026-02-14 11:53:07 - time_series_metrics - INFO -    - R²: -0.009
+2026-02-14 11:53:21 - time_series_metrics - INFO - 🚀 تولید گزارش کامل برای Model...
+2026-02-14 11:53:21 - time_series_metrics - INFO - ✅ گزارش کامل برای Model تولید شد
+2026-02-14 11:53:21 - time_series_metrics - INFO -    - RMSE: 212.05
+2026-02-14 11:53:21 - time_series_metrics - INFO -    - MAPE: 61.85%
+2026-02-14 11:53:21 - time_series_metrics - INFO -    - R²: -0.123
+2026-02-14 11:53:21 - time_series_metrics - INFO - 🚀 تولید گزارش کامل برای Model...
+2026-02-14 11:53:21 - time_series_metrics - INFO - ✅ گزارش کامل برای Model تولید شد
+2026-02-14 11:53:21 - time_series_metrics - INFO -    - RMSE: 200.64
+2026-02-14 11:53:21 - time_series_metrics - INFO -    - MAPE: 137.93%
+2026-02-14 11:53:21 - time_series_metrics - INFO -    - R²: -0.005
+2026-02-14 11:53:21 - time_series_metrics - INFO - 🚀 تولید گزارش کامل برای Model...
+2026-02-14 11:53:21 - time_series_metrics - INFO - ✅ گزارش کامل برای Model تولید شد
+2026-02-14 11:53:21 - time_series_metrics - INFO -    - RMSE: 202.63
+2026-02-14 11:53:21 - time_series_metrics - INFO -    - MAPE: 86.40%
+2026-02-14 11:53:21 - time_series_metrics - INFO -    - R²: -0.025
+2026-02-14 11:53:21 - time_series_metrics - INFO - 🚀 تولید گزارش کامل برای Model...
+2026-02-14 11:53:21 - time_series_metrics - INFO - ✅ گزارش کامل برای Model تولید شد
+2026-02-14 11:53:21 - time_series_metrics - INFO -    - RMSE: 202.86
+2026-02-14 11:53:21 - time_series_metrics - INFO -    - MAPE: 85.11%
+2026-02-14 11:53:21 - time_series_metrics - INFO -    - R²: -0.028
+2026-02-14 11:53:21 - time_series_metrics - INFO - 🚀 تولید گزارش کامل برای Model...
+2026-02-14 11:53:21 - time_series_metrics - INFO - ✅ گزارش کامل برای Model تولید شد
+2026-02-14 11:53:21 - time_series_metrics - INFO -    - RMSE: 204.43
+2026-02-14 11:53:21 - time_series_metrics - INFO -    - MAPE: 90.79%
+2026-02-14 11:53:21 - time_series_metrics - INFO -    - R²: -0.044
+2026-02-14 11:53:24 - time_series_metrics - INFO - 🚀 تولید گزارش کامل برای Model...
+2026-02-14 11:53:24 - time_series_metrics - INFO - ✅ گزارش کامل برای Model تولید شد
+2026-02-14 11:53:24 - time_series_metrics - INFO -    - RMSE: 212.05
+2026-02-14 11:53:25 - time_series_metrics - INFO -    - MAPE: 61.85%
+2026-02-14 11:53:25 - time_series_metrics - INFO -    - R²: -0.123
+2026-02-14 11:53:25 - time_series_metrics - INFO - 🚀 تولید گزارش کامل برای Model...
+2026-02-14 11:53:25 - time_series_metrics - INFO - ✅ گزارش کامل برای Model تولید شد
+2026-02-14 11:53:25 - time_series_metrics - INFO -    - RMSE: 200.64
+2026-02-14 11:53:25 - time_series_metrics - INFO -    - MAPE: 137.93%
+2026-02-14 11:53:25 - time_series_metrics - INFO -    - R²: -0.005
+2026-02-14 11:53:25 - time_series_metrics - INFO - 🚀 تولید گزارش کامل برای Model...
+2026-02-14 11:53:25 - time_series_metrics - INFO - ✅ گزارش کامل برای Model تولید شد
+2026-02-14 11:53:25 - time_series_metrics - INFO -    - RMSE: 202.63
+2026-02-14 11:53:25 - time_series_metrics - INFO -    - MAPE: 86.40%
+2026-02-14 11:53:25 - time_series_metrics - INFO -    - R²: -0.025
+2026-02-14 11:53:25 - time_series_metrics - INFO - 🚀 تولید گزارش کامل برای Model...
+2026-02-14 11:53:25 - time_series_metrics - INFO - ✅ گزارش کامل برای Model تولید شد
+2026-02-14 11:53:25 - time_series_metrics - INFO -    - RMSE: 202.86
+2026-02-14 11:53:25 - time_series_metrics - INFO -    - MAPE: 85.11%
+2026-02-14 11:53:25 - time_series_metrics - INFO -    - R²: -0.028
+2026-02-14 11:53:25 - time_series_metrics - INFO - 🚀 تولید گزارش کامل برای Model...
+2026-02-14 11:53:25 - time_series_metrics - INFO - ✅ گزارش کامل برای Model تولید شد
+2026-02-14 11:53:25 - time_series_metrics - INFO -    - RMSE: 204.43
+2026-02-14 11:53:25 - time_series_metrics - INFO -    - MAPE: 90.79%
+2026-02-14 11:53:25 - time_series_metrics - INFO -    - R²: -0.044
+2026-02-14 11:53:35 - time_series_metrics - INFO - 🚀 تولید گزارش کامل برای Model...
+2026-02-14 11:53:35 - time_series_metrics - INFO - ✅ گزارش کامل برای Model تولید شد
+2026-02-14 11:53:35 - time_series_metrics - INFO -    - RMSE: 200.63
+2026-02-14 11:53:35 - time_series_metrics - INFO -    - MAPE: 137.90%
+2026-02-14 11:53:35 - time_series_metrics - INFO -    - R²: -0.005
+2026-02-14 11:53:36 - time_series_metrics - INFO - 🚀 تولید گزارش کامل برای Model...
+2026-02-14 11:53:36 - time_series_metrics - INFO - ✅ گزارش کامل برای Model تولید شد
+2026-02-14 11:53:36 - time_series_metrics - INFO -    - RMSE: 200.97
+2026-02-14 11:53:36 - time_series_metrics - INFO -    - MAPE: 106.53%
+2026-02-14 11:53:36 - time_series_metrics - INFO -    - R²: -0.009

@@ -1,0 +1,28 @@
+2026-02-14 11:36:30 - seasonal_decomposer - INFO - ✅ SeasonalDecomposer initialized
+2026-02-14 11:36:30 - seasonal_decomposer - INFO - 🚀 شروع تجزیه سری زمانی با مدل additive...
+2026-02-14 11:36:30 - seasonal_decomposer - INFO - ✅ تجزیه سری زمانی با موفقیت انجام شد
+2026-02-14 11:36:30 - seasonal_decomposer - INFO -    - دوره فصلی: 7
+2026-02-14 11:36:30 - seasonal_decomposer - INFO -    - مدل: additive
+2026-02-14 11:36:30 - seasonal_decomposer - INFO - 📊 قدرت فصلی: 0.912
+2026-02-14 11:36:30 - seasonal_decomposer - INFO - 📊 قدرت روند: 0.932
+2026-02-14 11:43:25 - seasonal_decomposer - INFO - ✅ SeasonalDecomposer initialized
+2026-02-14 11:43:25 - seasonal_decomposer - INFO - 🚀 شروع تجزیه سری زمانی با مدل additive...
+2026-02-14 11:43:25 - seasonal_decomposer - INFO - ✅ تجزیه سری زمانی با موفقیت انجام شد
+2026-02-14 11:43:25 - seasonal_decomposer - INFO -    - دوره فصلی: 7
+2026-02-14 11:43:25 - seasonal_decomposer - INFO -    - مدل: additive
+2026-02-14 11:43:25 - seasonal_decomposer - INFO - 📊 قدرت فصلی: 0.007
+2026-02-14 11:43:25 - seasonal_decomposer - INFO - 📊 قدرت روند: 0.993
+2026-02-14 11:48:28 - seasonal_decomposer - INFO - ✅ SeasonalDecomposer initialized
+2026-02-14 11:48:28 - seasonal_decomposer - INFO - 🚀 شروع تجزیه سری زمانی با مدل additive...
+2026-02-14 11:48:28 - seasonal_decomposer - INFO - ✅ تجزیه سری زمانی با موفقیت انجام شد
+2026-02-14 11:48:28 - seasonal_decomposer - INFO -    - دوره فصلی: 7
+2026-02-14 11:48:28 - seasonal_decomposer - INFO -    - مدل: additive
+2026-02-14 11:48:28 - seasonal_decomposer - INFO - 📊 قدرت فصلی: 0.002
+2026-02-14 11:48:28 - seasonal_decomposer - INFO - 📊 قدرت روند: 0.985
+2026-02-14 11:52:43 - seasonal_decomposer - INFO - ✅ SeasonalDecomposer initialized
+2026-02-14 11:52:43 - seasonal_decomposer - INFO - 🚀 شروع تجزیه سری زمانی با مدل additive...
+2026-02-14 11:52:43 - seasonal_decomposer - INFO - ✅ تجزیه سری زمانی با موفقیت انجام شد
+2026-02-14 11:52:43 - seasonal_decomposer - INFO -    - دوره فصلی: 7
+2026-02-14 11:52:43 - seasonal_decomposer - INFO -    - مدل: additive
+2026-02-14 11:52:43 - seasonal_decomposer - INFO - 📊 قدرت فصلی: 0.001
+2026-02-14 11:52:43 - seasonal_decomposer - INFO - 📊 قدرت روند: 0.232
